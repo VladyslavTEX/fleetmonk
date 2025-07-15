@@ -1,6 +1,8 @@
 ###Fleetmonk
 
-# fleetmonk — CLI-утилита для экспорта конфигураций из VMware vSphere в JSON-формате. Цель — упростить миграцию инфраструктуры в облако через Infrastructure-as-Code (IaC).
+# fleetmonk — CLI-утилита для экспорта конфигураций из VMware vSphere в JSON-формате. 
+
+Цель — упростить миграцию инфраструктуры в облако через Infrastructure-as-Code (IaC).
 
 ---
 
